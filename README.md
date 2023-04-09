@@ -9,8 +9,6 @@ This GitHub profile serves as a portfolio of my work and accomplishments. Feel f
 
 Thank you for visiting my profile. I look forward to hearing from you soon! 
 
-Cheers, 
-Erick Omondi
 <!--
 **ErickOmondi97/ErickOmondi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
