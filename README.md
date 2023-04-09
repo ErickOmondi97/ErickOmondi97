@@ -13,7 +13,7 @@ Thank you for visiting my profile. I look forward to hearing from you soon!
 
 If you would like to contact me, please reach out via the social media links below.
 
-[![LinkedIn](https://image.flaticon.com/icons/svg/145/145812.svg)](https://www.linkedin.com/in/erick-asaria-a08113212/)
+[![LinkedIn](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=search&related_id=3536505)](https://www.linkedin.com/in/erick-asaria-a08113212/)
 
 <!--
 **ErickOmondi97/ErickOmondi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
