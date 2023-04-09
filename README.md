@@ -16,7 +16,8 @@ If you would like to contact me, please reach out via the social media links bel
 [![LinkedIn](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=search&related_id=3536505)](https://www.linkedin.com/in/erick-asaria-a08113212/)
 
 ### :fire: My Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **ErickOmondi97/ErickOmondi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
