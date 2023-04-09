@@ -13,8 +13,6 @@ Thank you for visiting my profile. I look forward to hearing from you soon!
 
 If you would like to contact me, please reach out via the social media links below.
 
-[![Linkedin Badge](h[ttps://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/linkedin-LinkedIn-blue)](https://www.linkedin.com/in/erick-asaria-a08113212/)
-
 ### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=dark&background=000000)](https://git.io/streak-stats)
 
