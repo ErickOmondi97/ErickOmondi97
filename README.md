@@ -3,7 +3,7 @@
 
 My name is Erick Omondi, and I am a Front End Developer Trainee. 
 
-I am currently in the process of learning web development and honing my skills in HTML, CSS, JavaScript, and React.js. I am passionate about creating beautiful, user-friendly websites and applications. Additionally, I am able to create static websites, dynamic, responsive designs, and interactive elements.
+I am currently in the process of learning web development and honing my skills in HTML, CSS, JavaScript, and React.js. I am passionate about creating beautiful, user-friendly websites and applications. Currently, I am able to create static websites, dynamic, responsive designs, and interactive elements.
 
 My goal is to become a full-stack developer and to work on large-scale projects that push the boundaries of web design and development.
 
