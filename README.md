@@ -13,7 +13,7 @@ Thank you for visiting my profile. I look forward to hearing from you soon!
 
 If you would like to contact me, please reach out via the social media links below.
 
-### :fire: My Stats:
+### :fire: My Streak and Contributions:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
