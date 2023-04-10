@@ -20,7 +20,7 @@ If you would like to contact me, please reach out via the social media links bel
   <a href="your-linkedin-URL](https://www.linkedin.com/in/erick-asaria-a08113212/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
+</div>
 
 ### :fire: My Streak and Contributions:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=dark&background=000000)](https://git.io/streak-stats)
