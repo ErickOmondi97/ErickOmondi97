@@ -5,7 +5,7 @@
 ### Hi there 👋
 # Welcome to my GitHub profile
 
-## About Me
+## 🚀 About Me
 My name is Erick Omondi, and I am a Front End Developer Trainee. 
 
 This GitHub profile serves as a portfolio of my work and accomplishments. Feel free to browse through my repositories and read about the projects I have been working on.
