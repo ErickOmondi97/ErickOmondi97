@@ -15,7 +15,7 @@ If you would like to contact me, please reach out via the social media links bel
   <a href="https://www.linkedin.com/in/erick-asaria-a08113212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="eriqueomondi1997@gmail.com">
+  <a href="mailto:eriqueomondi1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
