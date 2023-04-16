@@ -15,6 +15,9 @@ If you would like to contact me, please reach out via the social media links bel
   <a href="https://www.linkedin.com/in/erick-asaria-a08113212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
 </div>
 
 ### :fire: My Streak and Contributions:
