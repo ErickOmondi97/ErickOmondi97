@@ -16,13 +16,13 @@ If you would like to contact me, please reach out via the social media links bel
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:eriqueomondi1997@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>     
   </a>
 </div>
 
 ### :fire: My Streak and Contributions:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=dark&background=000000)](https://git.io/streak-stats)
-
+          
 ## 📈 My Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ErickOmondi97&count_private=true&show_icons=true&theme=dark" alt="Erick Omondi" width="500"/>
