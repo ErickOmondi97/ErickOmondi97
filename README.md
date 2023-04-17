@@ -25,5 +25,5 @@ If you would like to contact me, please reach out via the social media links bel
 
 ## 📈 My Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErickOmondi97&count_private=true&show_icons=true&theme=dark" alt="Erick Omondi" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickOmondi97&count_private=true&show_icons=true&theme=dark" alt="Erick Omondi" width="500"/>
 </p>
