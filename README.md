@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g.gif" width="100"/>
 </div>
 
-### Hi there 👋
-# Welcome to my GitHub profile
+<p font-size="12" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF727&width=435&lines=Hello%2C+Welcome+To+My+Profile..."></p>
 
 ## 🚀 About Me
 My name is Erick Omondi, and I am a Front End Developer Trainee. 🤓
