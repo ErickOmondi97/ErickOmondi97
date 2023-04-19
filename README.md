@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g.gif" width="100"/>
 </div>
 
-<p font-size="12" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF727&width=435&lines=Hello%2C+Welcome+To+My+Profile..."></p>
+<div class="welcomeMessage" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF727&width=435&lines=Hello%2C+Welcome+To+My+Profile..."></div>
 
 ## 🚀 About Me
 My name is Erick Omondi, and I am a Front End Developer Trainee. 🤓
