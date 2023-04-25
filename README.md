@@ -21,7 +21,8 @@ If you would like to contact me, please reach out via the social media links bel
 
 ### :fire: My Streak and Contributions:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickOmondi97&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-          
+
+
 ## 📈 My Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ErickOmondi97&count_private=true&show_icons=true&theme=tokyonight" alt="Erick Omondi" width="500"/>
