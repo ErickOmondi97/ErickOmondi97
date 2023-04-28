@@ -11,7 +11,7 @@ This GitHub profile serves as a portfolio of my work and accomplishments. Feel f
 
 If you would like to contact me, please reach out via the social media links below.
 <div id="badges">
-  <a href="https://www.linkedin.com/in/erick-asaria-a08113212/">
+  <a href="https://www.linkedin.com/in/erick-omondi-a08113212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:eriqueomondi1997@gmail.com">
