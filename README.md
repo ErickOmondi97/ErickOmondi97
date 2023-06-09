@@ -20,8 +20,7 @@ If you would like to contact me, please reach out via the social media links bel
 </div>
 
 ### :fire: My Streak and Contributions:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ErickOmondi97&theme=blueberry-duo&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ErickOmondi97&theme=transparent)](https://git.io/streak-stats)
 
 ## 📈 My Stats
 <p align="center">
