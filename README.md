@@ -5,7 +5,7 @@
 <div class="welcomeMessage" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF727&width=435&lines=Hello%2C+Welcome+To+My+Profile..."></div>
 
 ## 🚀 About Me
-My name is Erick Omondi, and I am a Front End Developer Trainee. 🤓
+My name is Erick Omondi, and I am a Front End Developer.
 
 This GitHub profile serves as a portfolio of my work and accomplishments. Feel free to browse through my repositories and read about the projects I have been working on.
 
