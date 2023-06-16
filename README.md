@@ -21,9 +21,3 @@ If you would like to contact me, please reach out via the social media links bel
 
 ### :fire: My Streak and Contributions:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ErickOmondi97&theme=transparent)](https://git.io/streak-stats)
-
-## 📈 My Stats
-<p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ErickOmondi97&count_private=true&show_icons=true&theme=tokyonight" alt="Erick Omondi" height="150"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOmondi97&layout=compact&theme=tokyonight" alt="Erick Omondi Language Stats" height="150" />
-</p>
